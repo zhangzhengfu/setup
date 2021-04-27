@@ -152,7 +152,7 @@ Updated: July 8, 2020
 -   [nmon](http://nmon.sourceforge.net/pmwiki.php) (16j)
     -   depends on: `ncurses`
     -   install script: [`./zznmon.sh`](zznmon.sh)
--   [zsh](http://zsh.sourceforge.net/) (5.7.1)
+-   [zsh](http://zsh.sourceforge.net/) (5.8)
     -   depends on: `ncurses`
     -   install script: [`./zzzsh.sh`](zzzsh.sh)
     -   post install: to set `zsh` as default shell without root, add `exec $ZZROOT/bin/zsh -l` to `.bashrc` ([example](https://github.com/innerlee/setup/blob/master/.bashrc))
