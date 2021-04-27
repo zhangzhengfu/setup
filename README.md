@@ -114,6 +114,9 @@ Updated: July 8, 2020
 -   [autoconf](https://www.gnu.org/software/autoconf/) (2.69)
     -   depends on: `m4`, `perl`
     -   install script: [`./zzautoconf.sh`](zzautoconf.sh)
+-   [automake](https://www.gnu.org/software/automake/) (1.16.3)
+    -   depends on: `perl`, `autoconf`
+    -   install script: [`./zzautomake.sh`](zzautomake.sh)
 -   [ccache](https://ccache.dev/) (3.7.6)
     -   install script: [`./zzccache.sh`](zzccache.sh)
     -   post install: customize cache dir by `export CCACHE_DIR=~/.ccache` to avoid permission issue
