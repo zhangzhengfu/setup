@@ -117,6 +117,8 @@ Updated: July 8, 2020
 -   [automake](https://www.gnu.org/software/automake/) (1.16.3)
     -   depends on: `perl`, `autoconf`
     -   install script: [`./zzautomake.sh`](zzautomake.sh)
+-   [binutils](https://ftp.gnu.org/gnu/binutils/) (2.26)
+    -   install script: [`./zzbinutils.sh`](zzbinutils.sh)
 -   [ccache](https://ccache.dev/) (3.7.6)
     -   install script: [`./zzccache.sh`](zzccache.sh)
     -   post install: customize cache dir by `export CCACHE_DIR=~/.ccache` to avoid permission issue
