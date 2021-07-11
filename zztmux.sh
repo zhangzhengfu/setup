@@ -6,7 +6,7 @@ ROOTDIR=${ZZROOT:-$HOME/app}
 NAME="tmux"
 TYPE=".tar.gz"
 FILE="$NAME$TYPE"
-DOWNLOADURL="https://github.com/tmux/tmux/releases/download/3.0a/tmux-3.0a.tar.gz"
+DOWNLOADURL="https://github.com/tmux/tmux/releases/download/3.2a/tmux-3.2a.tar.gz"
 echo $NAME will be installed in "$ROOTDIR"
 echo "hey, install libevent first"
 

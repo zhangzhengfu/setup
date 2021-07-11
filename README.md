@@ -166,7 +166,7 @@ Updated: July 8, 2020
 -   [ruby](https://www.ruby-lang.org/en/) (2.7.0)
     -   depends on: `openssl (with libssl installed)`
     -   install script: [`./zzruby.sh`](zzruby.sh)
--   [tmux](https://github.com/tmux/tmux) (3.0a)
+-   [tmux](https://github.com/tmux/tmux) (3.2a)
     -   depends on: `libevent`
     -   install script: [`./zztmux.sh`](zztmux.sh)
 -   [unrar](https://www.rarlab.com/rar_add.htm) (5.8.4)
