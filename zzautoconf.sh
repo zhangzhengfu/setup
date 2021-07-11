@@ -6,7 +6,7 @@ ROOTDIR=${ZZROOT:-$HOME/app}
 NAME="autoconf"
 TYPE=".tar.gz"
 FILE="$NAME$TYPE"
-DOWNLOADURL="http://ftp.gnu.org/gnu/autoconf/autoconf-latest.tar.gz"
+DOWNLOADURL="http://ftp.gnu.org/gnu/autoconf/autoconf-2.71.tar.gz"
 echo $NAME will be installed in "$ROOTDIR"
 echo Dependency: m4, perl
 

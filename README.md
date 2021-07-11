@@ -111,7 +111,7 @@ Updated: July 8, 2020
 
 ### tools
 
--   [autoconf](https://www.gnu.org/software/autoconf/) (2.69)
+-   [autoconf](https://www.gnu.org/software/autoconf/) (2.71)
     -   depends on: `m4`, `perl`
     -   install script: [`./zzautoconf.sh`](zzautoconf.sh)
 -   [automake](https://www.gnu.org/software/automake/) (1.16.3)
