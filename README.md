@@ -145,6 +145,8 @@ Updated: July 8, 2020
     -   install script: [`./zzhtop.sh`](zzhtop.sh)
 -   [julia](https://julialang.org/) (1.3.0)
     -   install script: [`./zzjulia.sh`](zzjulia.sh)
+-   [jq](https://github.com/stedolan/jq/) (1.6)
+    -   install script: [`./zzjq.sh`](zzjq.sh)
 -   [autojump](https://github.com/wting/autojump) (master)
     -   install script: [`./zzautojump.sh`](zzautojump.sh)
     -   post install: put [lines of configs](.zshrc#L17) in `.zshrc`
