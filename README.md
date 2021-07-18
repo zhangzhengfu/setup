@@ -63,7 +63,7 @@ Updated: July 8, 2020
     -   post install: `export TERMINFO=$ZZROOT/share/terminfo`
 -   [freetype](https://www.freetype.org/) (2.10.1)
     -   install script: [`./zzfreetype.sh`](zzfreetype.sh)
--   [opencv](https://opencv.org/) (4.1.2)
+-   [opencv](https://opencv.org/) (4.3.0)
     -   note: this config is designed for [denseflow](https://github.com/innerlee/denseflow).
         Please modify the cmake flags for your needs.
     -   depends on: `ccache`, `ffmpeg`
