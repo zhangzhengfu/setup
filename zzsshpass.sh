@@ -6,7 +6,7 @@ ROOTDIR=${ZZROOT:-$HOME/app}
 NAME="sshpass"
 TYPE=".tar.gz"
 FILE="$NAME$TYPE"
-DOWNLOADURL="https://github.com/innerlee/sshpass/archive/master.tar.gz"
+DOWNLOADURL="https://github.com/zhangzhengfu/sshpass/archive/master.tar.gz"
 echo $NAME will be installed in "$ROOTDIR"
 echo Dependency: oathtool, autoconf
 
